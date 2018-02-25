@@ -1,8 +1,0 @@
-﻿One sided battleship game vs computer:
-
-10 x 10 grid
-Place 3 ships on the grid, randomly. 1 x 5-long | 2 x 4-long
-Take input in the format letter number (A5)
-feedback to the user whether or not it was a hit
-
-Indexing from 0 and the changing the numbers on output to the user as it felt like this provided a level of continuity to the backend
